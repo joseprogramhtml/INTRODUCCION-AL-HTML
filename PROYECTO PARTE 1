@@ -1,0 +1,41 @@
+<html>
+  <head><title>PAGINA SUPER COOL</title></head>
+  <body>
+<H1>BREVE RESUMEN DE QUIEN SOY Y QUE ME GUSTA HACER </H1>
+<ol>
+<li><h5> <P>Naci en Merida, Venezuela en el año 1993</P></h5></li>
+<img src="https://www.got2globe.com/wp-content/uploads/2014/03/merida-los-nevados-confins-andes-venezuela-antigo-teleferico.jpg" alt="google" width="100" height="100" />
+<li><h5><P>Soy entrenador personal y practico CrossFit hace 7 años</P></h5></li>
+<img src="https://s1.eestatic.com/2019/08/03/elbernabeu/otros_deportes-crossfit-el_bernabeu_418719013_131528878_1706x960.jpg" alt="google" width="100" height="100" />
+<h3><a href="https://www.youtube.com/watch?v=Bf9eaHc9TQo"> Acá un video que me gusta mucho sobre CrossFit </a></h3>
+<H1>SOY POETA Y AQUI TE VA UN MENSAJE...</H1>
+  <h2><dl>
+    <dt>Nunca...</dt>
+    <dd> ...cambies</h2>
+      <img src="https://www.theclinic.cl/wp-content/uploads/2013/08/monocu.jpg" alt="google" width="200" height="150" />
+<h2> Tengo 3 hermanos </h2>
+    <table>
+      <tr>
+      <th>NOMBRE</th>
+      <th>EDAD</th>
+      <th>SEXO</th>
+      <th>¿Simpatico?</th>
+      </tr>
+      <tr>
+      <td>David</td>
+        <td>24</td>
+          <td>M</td>
+            <td>SI</td></tr>
+            <tr>
+            <td>Ivanna</td>
+              <td>31</td>
+                <td>F</td>
+                  <td>NO</td></tr>
+                  <tr>
+                  <td>Aransa</td>
+                    <td>11</td>
+                      <td>F</td>
+                        <td>SI</td></tr></table>
+                        <H1>GRACIAS POR VISITAR MI PRIMERA PAGINA WEB</H1>
+  </body>
+</html>
