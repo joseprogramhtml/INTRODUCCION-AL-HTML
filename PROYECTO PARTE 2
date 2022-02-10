@@ -1,0 +1,55 @@
+<HTML>
+<HEAD><title>CARROTNANApastry</title></HEAD>
+<body>
+  <h1>ENCUENTA DE PRODUCTOS Y PREFERENCIAS</H1>
+  <form>
+    <label for="nombre">NOMBRE</label>
+    <input type="text" id="nombre" name="nombre" </input>
+    <br />
+    <label for="nombre">APELLIDO</label>
+    <input type="text" id="APELLIDO" name="APELLIDO" </input>
+    <br />
+    <label for="nombre">EDAD</label> <br />
+    <select name="edad" id="edad">
+      <option value="ENTRE 20 Y 25">ENTRE 20 Y 25</option>
+      <option value="ENTRE 25 Y 30">ENTRE 25 Y 30</option>
+      <option value="ENTRE 30 Y 35">ENTRE 30 Y 35</option></select></form>
+      <br />
+
+  </FORM>
+
+  <form>
+    <p>ELIGE TU TORTA FAVORITA <h5><dt><dd>Solo puedes escoger una</dd></dt></h5> </p>
+    <input type="radio" name="selecion" id="chocotorta" value="chocotorta" />
+    <label for="chocotorta">CHOCOTORTA</label>
+    <br />
+    <input type="radio" name="selecion" id="TRES LECHES" value="TRES LECHES />
+    <label for="TRES LECHES>TRES LECHES</label>
+    <br />
+    <input type="radio" name="selecion" id="TIRAMISU" value="TIRAMISU" />
+    <label for="TIRAMISU">TIRAMISU</label>
+    <br /></form>
+
+    <form>
+      <p>ELIGE TOPPING FAVORITO</p> <h5><dt><dd>puedes elegir varias opciones</dd></dt></h5>
+      <input type="checkbox" name="selecion" id="DULCE DE LECHE" value="DULCE DE LECHE" />
+      <label for="DULCE DE LECHE">DULCE DE LECHE</label>
+      <br />
+      <input type="checkbox" name="selecion" id="CHOCOLATE BLANCO" value="CHOCOLATE BLANCO />
+      <label for="CHOCOLATE BLANCO>CHOCOLATE BLANCO</label>
+      <br />
+      <input type="checkbox" name="selecion" id="NUTELLA" value="NUTELLA" />
+      <label for="NUTELLA">NUTELLA</label>
+      <br /></form>
+
+  <form>
+    <p>CUENTANOS MAS SOBRE QUE TANTO TE GUSTAN NUESTRAS TORTAS</p>
+    <br />
+    <textarea row="2" cols="50">TEXTO</textarea>
+    <br /></form>
+    <form action="procesar.php" method="post">
+      <button type="submit">ENVIAR ENCUESTA</buton></form>
+
+
+</body>
+  </HTML>
